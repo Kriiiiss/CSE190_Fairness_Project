@@ -1,4 +1,4 @@
-# CSE190_Fairness_Project
+# ML_Fairness_Analysis
 
 Project for CSE190 exploring gender fairness in salary prediction. We study whether an employee earns above the dataset median salary using gender as the sensitive attribute and test several fairness interventions.
 
